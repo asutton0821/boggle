@@ -6,6 +6,6 @@ This program is based off the classic game of boggle. You can search in multiple
 
 
 
-Points: 
+## Points: 
 
 If the word is less than 4 letters, then you are awarded 1 point. If the word is equal to 5 letters, you get 2 points. If the word is 6 letters, 3 points. 7 letters gets you 5 points, and if the word is greater than 7 letters, you get 11 points. This is based off of the classic boggle scoring system. 
